@@ -1,11 +1,6 @@
-# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
-node index.js --action="list"
+link to screenshots:
 
-# Отримуємо контакт по id
-node index.js --action="get" --id=5
-
-# Додаємо контакт
-node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
-
-# Видаляємо контакт
-node index.js --action="remove" --id=3
+https://ibb.co/GTrRj8p
+https://ibb.co/YB5JyDW
+https://ibb.co/Hq7VdWY
+https://ibb.co/Cpj4fTX
